@@ -27,7 +27,7 @@ body{
 
 
 #missile{
-    background-image: url("D:\\ref\\templates\\Python Codes\\javascript\\rockett.jpg");
+    background-image: url("rockett.jpg");
     background-repeat: no-repeat;
     width: 100px;
     height: 200px;
@@ -38,7 +38,7 @@ body{
 
 
 #bullet{
-    background-image: url("D:\\ref\\templates\\Python Codes\\javascript\\bullet.png");
+    background-image: url("bullet.png");
     background-repeat: no-repeat;
     width: 100px;
     height: 100px;
@@ -48,7 +48,7 @@ body{
 }
 
 .enemy{
-    background-image: url("D:\\ref\\templates\\Python Codes\\javascript\\ene.png");
+    background-image: url("ene.png");
     background-repeat: no-repeat;
     width: 100px;
     height: 100px;
@@ -57,7 +57,7 @@ body{
 
 }
 .enemy1{
-    background-image: url("D:\\ref\\templates\\Python Codes\\javascript\\ene.png");
+    background-image: url("ene.png");
     background-repeat: no-repeat;
     width: 100px;
     height: 100px;
@@ -65,7 +65,7 @@ body{
     /* top: 50px; */
 
 }.enemy2{
-    background-image: url("D:\\ref\\templates\\Python Codes\\javascript\\ene.png");
+    background-image: url("ene.png");
     background-repeat: no-repeat;
     width: 100px;
     height: 100px;
