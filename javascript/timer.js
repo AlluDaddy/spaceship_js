@@ -4,7 +4,7 @@ Timer:
             1. i.e Enter the No.of seconds is needed to finish game for the Gamer.
                 Based on the time challenge, the game will starts and the countdown also starts.
             2. i.e Click the cancel for Unlimited Game play.
-                Then, the countdown start from 0.
+                Then, the countdown start from 0 to n.   i.e n<0
             3. If the gamer lose in the game, it again request the gamer for to add additional time to complete the task.
 
 
