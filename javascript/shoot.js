@@ -44,8 +44,7 @@ class Collision{
                         console.log("Killed the offsett with 150");
 
                         document.getElementById("ene1").style.visibility="hidden";
-                        bullet_stop_case=true;
-                        b=document.getElementById("missile").offsetTop-310;
+                 
 
                         kills=kills+1;
                         ene_kill1=false;
